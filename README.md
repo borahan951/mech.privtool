@@ -17,5 +17,5 @@ pip install socket
 
 kullanım video 
 https://www.youtube.com/watch?v=pzsIsa6pvPw
-
+https://www.youtube.com/watch?v=-6_wt42Y-Us
    
